@@ -1,13 +1,8 @@
-/*
-Por favor busque su propia fuente en Google Fonts
-*/
+
 
 @import url("https://fonts.google.com/specimen/Lato?category=Sans+Serif");
 
-/*
-Modifique un mínimo de tres variables dentro de :root{} 
-Para seleccionarlas, revise: https://getbootstrap.com/docs/5.1/customize/css-variables/
-*/
+
 
 :root {
     --bs-body-font-family: "Lato", sans-serif;
@@ -16,10 +11,7 @@ Para seleccionarlas, revise: https://getbootstrap.com/docs/5.1/customize/css-var
 
 }
 
-/*
-Si el peso de la fuente para sus títulos y negrita es distinto de 600, 
-indique cuál sería (ver pesos de fuente importada)
-*/
+
 
 h1,
 h3,
